@@ -1,2 +1,1 @@
-Push cse118 Lab1
-parce que 
+This is the work of Kyllian Maheu and Meishi Li.
